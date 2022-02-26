@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First HTML page</title>
+    
+</head>
+<body>
+    
+    <div class="container">
+        <h1><i><u>My Profile</u></i></h1>
+    </div>
+    <div class="line">
+        
+        
+            <summary><strong>About me:-</strong></summary>
+            <p>Hello friends my name is Sameer. I completed my schooling from Good samaritain school.I live in Delhi.Currently parsuting my bachlor of technology in electronic and  communication form Jamia Hamdard University.  </p>
+        
+        
+        <div class="personal">
+           
+                
+                
+                <summary><strong>My personal info:-</strong></summary>
+                <ul>
+                    <li>Name: Sameer</li>
+                    <li>Age: 22</li>
+                    <li>social activity: Instagram, Whatsapp, Telegram</li>
+                    <li>Relation: Single</li>
+                    <li>religion: Muslim</li>
+                    
+                </ul>
+          
+                
+                <summary><strong>Hobbies:-</strong></summary>
+                <ul>
+                    
+                    <li>Watching: web series,anime,movies, video</li>
+                    <li>Listening: music, shayri</li>
+                    <li>Sleeping</li>
+                    <li>Using Phone</li>
+                    <li>traveling </li>
+                </ul>
+           
+                
+                <summary><strong>Friends and Family:-</strong></summary>
+                <ul>
+                    <li>In my family there are 5 members</li>
+                    <li>my Dad(Vashil Ahamd) </li> 
+                    <li>my Mommy(Salma) </li> 
+                    <li>my elder sister Heena </li>
+                    <li>my second  elder sister Jeba </li>
+                    <li>my elder brother Sahil </li> 
+                    
+                </ul>
+           
+        </div>
+    </div>
+    
+        
+        
+</body>
+</html>
