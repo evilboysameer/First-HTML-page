@@ -15,15 +15,13 @@
     <div class="line">
         
         
-            <summary><strong>About me:-</strong></summary>
+            <strong>About me:-</strong>
             <p>Hello friends my name is Sameer. I completed my schooling from Good samaritain school.I live in Delhi.Currently parsuting my bachlor of technology in electronic and  communication form Jamia Hamdard University.  </p>
         
         
-        <div class="personal">
-           
+        <div class="personal">        
                 
-                
-                <summary><strong>My personal info:-</strong></summary>
+                <strong>My personal info:-</strong>
                 <ul>
                     <li>Name: Sameer</li>
                     <li>Age: 22</li>
@@ -34,7 +32,7 @@
                 </ul>
           
                 
-                <summary><strong>Hobbies:-</strong></summary>
+                <strong>Hobbies:-</strong>
                 <ul>
                     
                     <li>Watching: web series,anime,movies, video</li>
@@ -45,7 +43,7 @@
                 </ul>
            
                 
-                <summary><strong>Friends and Family:-</strong></summary>
+                <strong>Friends and Family:-</strong>
                 <ul>
                     <li>In my family there are 5 members</li>
                     <li>my Dad(Vashil Ahamd) </li> 
